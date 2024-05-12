@@ -1,0 +1,1 @@
+DROP TRIGGER IF EXISTS update_deleted_at_on_customer;
